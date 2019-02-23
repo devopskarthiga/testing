@@ -2,5 +2,9 @@ git add
 
 git commmit -m 
 
+<<<<<<< HEAD
 
 naveen going to hospital to see the ladyDr
+=======
+karthiga not giving password to work git 
+>>>>>>> d85fc2b10a589b8765793e9f261a7d48b521c90a
